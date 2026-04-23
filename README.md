@@ -8,13 +8,10 @@ An AI-powered web app that analyzes any CSV file and generates insights in plain
 ## 📸 Screenshots
 
 ### Charts
-![Charts](<img width="953" height="488" alt="Screenshot1" src="https://github.com/user-attachments/assets/6b3049e5-02c0-4246-a9ec-c772a0e96bab" />
-)
+![Charts](https://github.com/NuralNv/ai-data-analyzer/raw/main/Screenshot1.png)
 
 ### AI Insights
-![AI Insights](<img width="956" height="491" alt="Screenshot2" src="https://github.com/user-attachments/assets/7c37e1f4-ee41-46e5-9d70-a57cc3ee7808" />
-)
-
+![AI Insights](https://github.com/NuralNv/ai-data-analyzer/raw/main/Screenshot2.png)
 ## ✨ Features
 - Upload any CSV file (supports 400,000+ rows)
 - Interactive data table with stats
