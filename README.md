@@ -8,11 +8,11 @@ An AI-powered web app that analyzes any CSV file and generates insights in plain
 ## 📸 Screenshots
 
 ### Charts
-![Charts](<img width="1294" height="922" alt="AI Insights" src="https://github.com/user-attachments/assets/ddfade64-77de-40d2-8271-f200f7eac7d6" />
+![Charts](<img width="953" height="488" alt="Screenshot1" src="https://github.com/user-attachments/assets/6b3049e5-02c0-4246-a9ec-c772a0e96bab" />
 )
 
 ### AI Insights
-![AI Insights](<img width="1600" height="764" alt="Charts" src="https://github.com/user-attachments/assets/21c71a6c-aceb-4bc8-a1fe-a36986a8bbea" />
+![AI Insights](<img width="956" height="491" alt="Screenshot2" src="https://github.com/user-attachments/assets/7c37e1f4-ee41-46e5-9d70-a57cc3ee7808" />
 )
 
 ## ✨ Features
